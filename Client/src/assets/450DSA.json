@@ -1,0 +1,2697 @@
+﻿{
+  "Sheet1": [
+    {
+      "id":1,
+      "topic": "Array",
+      "title": "Reverse the array",
+      "done": false,
+      "url_gfg": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/",
+      "url_leetcode": "https://leetcode.com/problems/example",
+      "url_codingNinja": "https://www.codingninjas.com/codestudio/problems/example",
+      "youtube":"https://youtu.be/gGtmacuQu-k?feature=shared"
+    },
+    {
+      "id":2,
+      "topic": "Array",
+      "title": "Find the maximum and minimum element in an array",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/"
+    },
+    {
+      "topic": "Array",
+      "title": "Find the \"Kth\" max and min element of an array ",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/kth-smallest-element/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/sort-an-array-of-0s-1s-and-2s/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Move all the negative elements to one side of the array ",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/"
+    },
+    {
+      "topic": "Array",
+      "title": "Find the Union and Intersection of the two sorted arrays.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/union-of-two-arrays/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Write a program to cyclically rotate an array by one.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/cyclically-rotate-an-array-by-one/0"
+    },
+    {
+      "topic": "Array",
+      "title": "find Largest sum contiguous Subarray [V. IMP]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/kadanes-algorithm/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Minimise the maximum difference between heights [V.IMP]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimize-the-heights3351/1"
+    },
+    {
+      "topic": "Array",
+      "title": "Minimum no. of Jumps to reach end of an array",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimum-number-of-jumps/0"
+    },
+    {
+      "topic": "Array",
+      "title": "find duplicate in an array of N+1 Integers",
+      "done": false,
+      "URL": "https://leetcode.com/titles/find-the-duplicate-number/"
+    },
+    {
+      "topic": "Array",
+      "title": "Merge 2 sorted arrays without using Extra space.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/merge-two-sorted-arrays5135/1"
+    },
+    {
+      "topic": "Array",
+      "title": "Kadane's Algo [V.V.V.V.V IMP]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/kadanes-algorithm/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Merge Intervals",
+      "done": false,
+      "URL": "https://leetcode.com/titles/merge-intervals/"
+    },
+    {
+      "topic": "Array",
+      "title": "Next Permutation",
+      "done": false,
+      "URL": "https://leetcode.com/titles/next-permutation/"
+    },
+    {
+      "topic": "Array",
+      "title": "Count Inversion",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/inversion-of-array/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Best time to buy and Sell stock",
+      "done": false,
+      "URL": "https://leetcode.com/titles/best-time-to-buy-and-sell-stock/"
+    },
+    {
+      "topic": "Array",
+      "title": "find all pairs on integer array whose sum is equal to given number",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/count-pairs-with-given-sum5022/1"
+    },
+    {
+      "topic": "Array",
+      "title": "find common elements In 3 sorted arrays",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/common-elements1132/1"
+    },
+    {
+      "topic": "Array",
+      "title": "Rearrange the array in alternating positive and negative items with O(1) extra space",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/"
+    },
+    {
+      "topic": "Array",
+      "title": "Find if there is any subarray with sum equal to 0",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/subarray-with-0-sum/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Find factorial of a large number",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/factorials-of-large-numbers/0"
+    },
+    {
+      "topic": "Array",
+      "title": "find maximum product subarray ",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/maximum-product-subarray3604/1"
+    },
+    {
+      "topic": "Array",
+      "title": "Find longest coinsecutive subsequence",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/longest-consecutive-subsequence/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Given an array of size n and a number k, fin all elements that appear more than \" n/k \" times.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/"
+    },
+    {
+      "topic": "Array",
+      "title": "Maximum profit by buying and selling a share atmost twice",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/"
+    },
+    {
+      "topic": "Array",
+      "title": "Find whether an array is a subset of another array",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/array-subset-of-another-array/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Find the triplet that sum to a given value",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/triplet-sum-in-array/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Trapping Rain water title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/trapping-rain-water/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Chocolate Distribution title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/chocolate-distribution-title/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Smallest Subarray with sum greater than a given value",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/smallest-subarray-with-sum-greater-than-x/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Three way partitioning of an array around a given value",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/three-way-partitioning/1"
+    },
+    {
+      "topic": "Array",
+      "title": "Minimum swaps required bring elements less equal K together",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Minimum no. of operations required to make an array palindrome",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/palindromic-array/0"
+    },
+    {
+      "topic": "Array",
+      "title": "Median of 2 sorted arrays of equal size",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/find-the-median0527/1"
+    },
+    {
+      "topic": "Array",
+      "title": "Median of 2 sorted arrays of different size",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/"
+    },
+    {
+      "topic": "Matrix",
+      "title": "Spiral traversal on a Matrix",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/spirally-traversing-a-matrix/0"
+    },
+    {
+      "topic": "Matrix",
+      "title": "Search an element in a matriix",
+      "done": false,
+      "URL": "https://leetcode.com/titles/search-a-2d-matrix/"
+    },
+    {
+      "topic": "Matrix",
+      "title": "Find median in a row wise sorted matrix",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/median-in-a-row-wise-sorted-matrix1527/1"
+    },
+    {
+      "topic": "Matrix",
+      "title": "Find row with maximum no. of 1's",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/row-with-max-1s0023/1"
+    },
+    {
+      "topic": "Matrix",
+      "title": "Print elements in sorted order using row-column wise sorted matrix",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/sorted-matrix/0"
+    },
+    {
+      "topic": "Matrix",
+      "title": "Maximum size rectangle",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/max-rectangle/1"
+    },
+    {
+      "topic": "Matrix",
+      "title": "Find a specific pair in matrix",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/"
+    },
+    {
+      "topic": "Matrix",
+      "title": "Rotate matrix by 90 degrees",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/"
+    },
+    {
+      "topic": "Matrix",
+      "title": "Kth smallest element in a row-cpumn wise sorted matrix",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/kth-element-in-matrix/1"
+    },
+    {
+      "topic": "Matrix",
+      "title": "Common elements in all rows of a given matrix",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/"
+    },
+    {
+      "topic": "String",
+      "title": "Reverse a String",
+      "done": false,
+      "URL": "https://leetcode.com/titles/reverse-string/"
+    },
+    {
+      "topic": "String",
+      "title": "Check whether a String is Palindrome or not",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/palindrome-string0817/1"
+    },
+    {
+      "topic": "String",
+      "title": "Find Duplicate characters in a string",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
+    },
+    {
+      "topic": "String",
+      "title": "Why strings are immutable in Java?",
+      "done": false,
+      "URL": "<->"
+    },
+    {
+      "topic": "String",
+      "title": "Write a Code to check whether one string is a rotation of another",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/"
+    },
+    {
+      "topic": "String",
+      "title": "Write a Program to check whether a string is a valid shuffle of two strings or not",
+      "done": false,
+      "URL": "https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings"
+    },
+    {
+      "topic": "String",
+      "title": "Count and Say title",
+      "done": false,
+      "URL": "https://leetcode.com/titles/count-and-say/"
+    },
+    {
+      "topic": "String",
+      "title": "Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/longest-palindrome-in-a-string/0"
+    },
+    {
+      "topic": "String",
+      "title": "Find Longest Recurring Subsequence in String",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/longest-repeating-subsequence/0"
+    },
+    {
+      "topic": "String",
+      "title": "Print all Subsequences of a string.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/print-subsequences-string/"
+    },
+    {
+      "topic": "String",
+      "title": "Print all the permutations of the given string",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/permutations-of-a-given-string/0"
+    },
+    {
+      "topic": "String",
+      "title": "Split the Binary string into two substring with equal 0’s and 1’s",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/"
+    },
+    {
+      "topic": "String",
+      "title": "Word Wrap title [VERY IMP].",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/word-wrap/0"
+    },
+    {
+      "topic": "String",
+      "title": "EDIT Distance [Very Imp]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/edit-distance3702/1"
+    },
+    {
+      "topic": "String",
+      "title": "Find next greater number with same set of digits. [Very Very IMP]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/next-permutation/0"
+    },
+    {
+      "topic": "String",
+      "title": "Balanced Parenthesis title.[Imp]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/parenthesis-checker/0"
+    },
+    {
+      "topic": "String",
+      "title": "Word break title[ Very Imp]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/word-break/0"
+    },
+    {
+      "topic": "String",
+      "title": "Rabin Karp Algo",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/"
+    },
+    {
+      "topic": "String",
+      "title": "KMP Algo",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/longest-prefix-suffix2527/1"
+    },
+    {
+      "topic": "String",
+      "title": "Convert a Sentence into its equivalent mobile numeric keypad sequence.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence0547/1"
+    },
+    {
+      "topic": "String",
+      "title": "Minimum number of bracket reversals needed to make an expression balanced.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/count-the-reversals/0"
+    },
+    {
+      "topic": "String",
+      "title": "Count All Palindromic Subsequence in a given String.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/count-palindromic-subsequences/1"
+    },
+    {
+      "topic": "String",
+      "title": "Count of number of given string in 2D character array",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/count-occurences-of-a-given-word-in-a-2-d-array/1"
+    },
+    {
+      "topic": "String",
+      "title": "Search a Word in a 2D Grid of characters.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/find-the-string-in-grid/0"
+    },
+    {
+      "topic": "String",
+      "title": "Boyer Moore Algorithm for Pattern Searching.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/"
+    },
+    {
+      "topic": "String",
+      "title": "Converting Roman Numerals to Decimal",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/roman-number-to-integer/0"
+    },
+    {
+      "topic": "String",
+      "title": "Longest Common Prefix",
+      "done": false,
+      "URL": "https://leetcode.com/titles/longest-common-prefix/"
+    },
+    {
+      "topic": "String",
+      "title": "Number of flips to make binary string alternate",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/min-number-of-flips/0"
+    },
+    {
+      "topic": "String",
+      "title": "Find the first repeated word in string.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/second-most-repeated-string-in-a-sequence/0"
+    },
+    {
+      "topic": "String",
+      "title": "Minimum number of swaps for bracket balancing.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimum-swaps-for-bracket-balancing/0"
+    },
+    {
+      "topic": "String",
+      "title": "Find the longest common subsequence between two strings.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/longest-common-subsequence/0"
+    },
+    {
+      "topic": "String",
+      "title": "Program to generate all possible valid IP addresses from given  string.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/generate-ip-addresses/1"
+    },
+    {
+      "topic": "String",
+      "title": "Write a program to find the smallest window that contains all characters of string itself.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/smallest-distant-window/0"
+    },
+    {
+      "topic": "String",
+      "title": "Rearrange characters in a string such that no two adjacent are same",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/rearrange-characters/0"
+    },
+    {
+      "topic": "String",
+      "title": "Minimum characters to be added at front to make string palindrome",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/"
+    },
+    {
+      "topic": "String",
+      "title": "Given a sequence of words, print all anagrams together",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/k-anagrams-1/0"
+    },
+    {
+      "topic": "String",
+      "title": "Find the smallest window in a string containing all characters of another string",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0"
+    },
+    {
+      "topic": "String",
+      "title": "Recursively remove all adjacent duplicates",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/consecutive-elements/0"
+    },
+    {
+      "topic": "String",
+      "title": "String matching where one string contains wildcard characters",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/wildcard-string-matching/0"
+    },
+    {
+      "topic": "String",
+      "title": "Function to find Number of customers who could not get a computer",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/"
+    },
+    {
+      "topic": "String",
+      "title": "Transform One String to Another using Minimum Number of Given Operation",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/"
+    },
+    {
+      "topic": "String",
+      "title": "Check if two given strings are isomorphic to each other",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/isomorphic-strings/0"
+    },
+    {
+      "topic": "String",
+      "title": "Recursively print all sentences that can be formed from list of word lists",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Find first and last positions of an element in a sorted array",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/first-and-last-occurrences-of-x/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Find a Fixed Point (Value equal to index) in a given array",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/value-equal-to-index-value1330/1"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Search in a rotated sorted array",
+      "done": false,
+      "URL": "https://leetcode.com/titles/search-in-rotated-sorted-array/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "square root of an integer",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/square-root/1"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Maximum and minimum of an array using minimum number of comparisons",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/middle-of-three2926/1"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Optimum location of point to minimize total distance",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Find the repeating and the missing",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/find-missing-and-repeating2512/1"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "find majority element",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/majority-element/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Searching in an array where adjacent differ by at most k",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "find a pair with a given difference",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/find-pair-given-difference/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "find four elements that sum to a given value",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/find-all-four-sum-numbers/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "maximum sum such that no 2 elements are adjacent",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/stickler-theif/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Count triplet with sum smaller than a given value",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/count-triplets-with-sum-smaller-than-x5549/1"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "merge 2 sorted arrays",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/merge-two-sorted-arrays5135/1"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "print all subarrays with 0 sum",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/zero-sum-subarrays/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Product array Puzzle",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/product-array-puzzle/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Sort array according to count of set bits",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/sort-by-set-bit-count/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "minimum no. of swaps required to sort the array",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimum-swaps/1"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Bishu and Soldiers",
+      "done": false,
+      "URL": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-titles/algorithm/bishu-and-soldiers/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Rasta and Kheshtak",
+      "done": false,
+      "URL": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-titles/algorithm/rasta-and-kheshtak/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Kth smallest number again",
+      "done": false,
+      "URL": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-titles/algorithm/kth-smallest-number-again-2/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Find pivot element in a sorted array",
+      "done": false,
+      "URL": "http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "K-th Element of Two Sorted Arrays",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/k-th-element-of-two-sorted-array/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Aggressive cows",
+      "done": false,
+      "URL": "https://www.spoj.com/titles/AGGRCOW/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Book Allocation title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/allocate-minimum-number-of-pages/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "EKOSPOJ:",
+      "done": false,
+      "URL": "https://www.spoj.com/titles/EKO/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Job Scheduling Algo",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Missing Number in AP",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/arithmetic-number/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Smallest number with atleastn trailing zeroes infactorial",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/smallest-factorial-number5929/1"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Painters Partition title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/allocate-minimum-number-of-pages/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "ROTI-Prata SPOJ",
+      "done": false,
+      "URL": "https://www.spoj.com/titles/PRATA/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "DoubleHelix SPOJ",
+      "done": false,
+      "URL": "https://www.spoj.com/titles/ANARC05B/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Subset Sums",
+      "done": false,
+      "URL": "https://www.spoj.com/titles/SUBSUMS/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Findthe inversion count",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/inversion-of-array/0"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Implement Merge-sort in-place",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/in-place-merge-sort/"
+    },
+    {
+      "topic": "Searching & Sorting",
+      "title": "Partitioning and Sorting Arrays with Many Repeated Entries",
+      "done": false,
+      "URL": "https://www.baeldung.com/java-sorting-arrays-with-repeated-entries"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/reverse-a-linked-list/"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Reverse a Linked List in group of Given Size. [Very Imp]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/reverse-a-linked-list-in-groups-of-given-size/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Write a program to Detect loop in a linked list.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/detect-loop-in-linked-list/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Write a program to Delete loop in a linked list.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/remove-loop-in-linked-list/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Find the starting point of the loop. ",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Remove Duplicates in a sorted Linked List.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/remove-duplicate-element-from-sorted-linked-list/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Remove Duplicates in a Un-sorted Linked List.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/remove-duplicates-from-an-unsorted-linked-list/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Write a Program to Move the last element to Front in a Linked List.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Add “1” to a number represented as a Linked List.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/add-1-to-a-number-represented-as-linked-list/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Add two numbers represented by linked lists.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/add-two-numbers-represented-by-linked-lists/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Intersection of two Sorted Linked List.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/intersection-of-two-sorted-linked-lists/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Intersection Point of two Linked Lists.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/intersection-point-in-y-shapped-linked-lists/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Merge Sort For Linked lists.[Very Important]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/sort-a-linked-list/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Quicksort for Linked Lists.[Very Important]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/quick-sort-on-linked-list/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Find the middle Element of a linked list.",
+      "done": false,
+      "URL": "https://leetcode.com/titles/middle-of-the-linked-list/"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Check if a linked list is a circular linked list.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/circular-linked-list/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Split a Circular linked list into two halves.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/split-a-circular-linked-list-into-two-halves/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Write a Program to check whether the Singly Linked list is a palindrome or not.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/check-if-linked-list-is-pallindrome/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Deletion from a Circular Linked List.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/deletion-circular-linked-list/"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Reverse a Doubly Linked list.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/reverse-a-doubly-linked-list/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Find pairs with a given sum in a DLL.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Count triplets in a sorted DLL whose sum is equal to given value “X”.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Sort a “k”sorted Doubly Linked list.[Very IMP]",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Rotate DoublyLinked list by N nodes.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Can we reverse a linked list in less than O(n) ?",
+      "done": false,
+      "URL": "<->"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?",
+      "done": false,
+      "URL": "<->"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Flatten a Linked List",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/flattening-a-linked-list/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Sort a LL of 0's, 1's and 2's",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/given-a-linked-list-of-0s-1s-and-2s-sort-it/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Clone a linked list with next and random pointer",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/clone-a-linked-list-with-next-and-random-pointer/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Merge K sorted Linked list",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/merge-k-sorted-linked-lists/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Multiply 2 no. represented by LL",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/multiply-two-linked-lists/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Delete nodes which have a greater value on right side",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/delete-nodes-having-greater-value-on-right/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Segregate even and odd nodes in a Linked List",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/segregate-even-and-odd-nodes-in-a-linked-list/0"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Program for n’th node from the end of a Linked List",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/nth-node-from-end-of-linked-list/1"
+    },
+    {
+      "topic": "LinkedList",
+      "title": "Find the first non-repeating character from a stream of characters",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/first-non-repeating-character-in-a-stream/0"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "level order traversal",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/level-order-traversal/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Reverse Level Order traversal",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/reverse-level-order-traversal/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Height of a tree",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/height-of-binary-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Diameter of a tree",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/diameter-of-binary-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Mirror of a tree",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Inorder Traversal of a tree both using recursion and Iteration",
+      "done": false,
+      "URL": "https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Preorder Traversal of a tree both using recursion and Iteration",
+      "done": false,
+      "URL": "https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Postorder Traversal of a tree both using recursion and Iteration",
+      "done": false,
+      "URL": "https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Left View of a tree",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/left-view-of-binary-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Right View of Tree",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/right-view-of-binary-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Top View of a tree",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/top-view-of-binary-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Bottom View of a tree",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/bottom-view-of-binary-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Zig-Zag traversal of a binary tree",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/zigzag-tree-traversal/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Check if a tree is balanced or not",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/check-for-balanced-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Diagonal Traversal of a Binary tree",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Boundary traversal of a Binary tree",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/boundary-traversal-of-binary-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Construct Binary Tree from String with Bracket Representation",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/construct-binary-tree-from-string-with-bracket-representation/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Convert Binary tree into Doubly Linked List",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/binary-tree-to-dll/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Convert Binary tree into Sum tree",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/transform-to-sum-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Construct Binary tree from Inorder and preorder traversal",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/construct-tree-1/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Find minimum swaps required to convert a Binary tree into BST",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Check if Binary tree is Sum tree or not",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/sum-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Check if all leaf nodes are at same level or not",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/leaf-at-same-level/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/duplicate-subtree-in-binary-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Check if 2 trees are mirror or not",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/check-mirror-in-n-ary-tree/0"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Sum of Nodes on the Longest path from root to leaf node ",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/sum-of-the-longest-bloodline-of-a-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Check if given graph is tree or not.  [ IMP ]",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/check-given-graph-tree/"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Find Largest subtree sum in a tree",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Maximum Sum of nodes in Binary tree such that no two are adjacent ",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Print all \"K\" Sum paths in a Binary tree",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Find LCA in a Binary tree",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/lowest-common-ancestor-in-a-binary-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Find distance between 2 nodes in a Binary tree",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/min-distance-between-two-given-nodes-of-a-binary-tree/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Kth Ancestor of node in a Binary tree",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Find all Duplicate subtrees in a Binary tree [ IMP ]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/duplicate-subtrees/1"
+    },
+    {
+      "topic": "Binary Trees",
+      "title": "Tree Isomorphism title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/check-if-tree-is-isomorphic/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Fina a value in a BST",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Deletion of a node in a BST",
+      "done": false,
+      "URL": "https://leetcode.com/titles/delete-node-in-a-bst/"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Find min and max value in a BST",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimum-element-in-bst/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Find inorder successor and inorder predecessor in a BST",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/predecessor-and-successor/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Check if a tree is a BST or not ",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/check-for-bst/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Populate Inorder successor of all nodes",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/populate-inorder-successor-for-all-nodes/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Find LCA  of 2 nodes in a BST",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/lowest-common-ancestor-in-a-bst/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Construct BST from preorder traversal",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Convert Binary tree into BST",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/binary-tree-to-bst/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Convert a normal BST into a Balanced BST",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Merge two BST [ V.V.V>IMP ]",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Find Kth largest element in a BST",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/kth-largest-element-in-bst/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Find Kth smallest element in a BST",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/find-k-th-smallest-element-in-bst/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Count pairs from 2 BST whose sum is equal to given value \"X\"",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/brothers-from-different-root/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Find the median of BST in O(n) time and O(1) space",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Count BST ndoes that lie in a given range",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/count-bst-nodes-that-lie-in-a-given-range/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Replace every element with the least greater element on its right",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Given \"n\" appointments, find the conflicting appointments",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Check preorder is valid or not",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/preorder-to-postorder/0"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Check whether BST contains Dead end",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/check-whether-bst-contains-dead-end/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/largest-bst/1"
+    },
+    {
+      "topic": "Binary Search Trees",
+      "title": "Flatten BST to sorted list",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Activity Selection title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/activity-selection-1587115620/1/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Job Sequencingtitle",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/job-sequencing-title/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Huffman Coding",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/huffman-encoding/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Water Connection title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/water-connection-title/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Fractional Knapsack title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/fractional-knapsack/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Greedy Algorithm to find Minimum number of Coins",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/coin-piles/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Maximum trains for which stoppage can be provided",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Minimum Platforms title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimum-platforms/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Buy Maximum Stocks if i stocks can be bought on i-th day",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/buy-maximum-stocks-stocks-can-bought-th-day/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Find the minimum and maximum amount to buy all N candies",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/shop-in-candy-store/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Minimum Cost to cut a board into squares",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Check if it is possible to survive on Island",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/survival/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Find maximum meetings in one room",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Maximum product subset of an array",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/maximum-product-subset-array/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Maximize array sum after K negations",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/maximize-sum-after-k-negations/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Maximize the sum of arr[i]*i",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/maximize-arrii-of-an-array/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Maximum sum of absolute difference of an array",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/maximum-sum-absolute-difference-array/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Maximize sum of consecutive differences in a circular array",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/swap-and-maximize/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Minimum sum of absolute difference of pairs of two arrays",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Program for Shortest Job First (or SJF) CPU Scheduling",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Program for Least Recently Used (LRU) Page Replacement algorithm",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/page-faults-in-lru/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Smallest subset with sum greater than all other elements",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Chocolate Distribution title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/chocolate-distribution-title/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "DEFKIN -Defense of a Kingdom",
+      "done": false,
+      "URL": "https://www.spoj.com/titles/DEFKIN/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "DIEHARD -DIE HARD",
+      "done": false,
+      "URL": "https://www.spoj.com/titles/DIEHARD/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "GERGOVIA -Wine trading in Gergovia",
+      "done": false,
+      "URL": "https://www.spoj.com/titles/GERGOVIA/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Picking Up Chicks",
+      "done": false,
+      "URL": "https://www.spoj.com/titles/GCJ101BB/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "CHOCOLA –Chocolate",
+      "done": false,
+      "URL": "https://www.spoj.com/titles/CHOCOLA/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "ARRANGE -Arranging Amplifiers",
+      "done": false,
+      "URL": "https://www.spoj.com/titles/ARRANGE/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "K Centers title",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/k-centers-title-set-1-greedy-approximate-algorithm/"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Minimum Cost of ropes",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimum-cost-of-ropes/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Find smallest number with given number of digits and sum of digits",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/smallest-number5829/1"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Rearrange characters in a string such that no two adjacent are same",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/rearrange-characters/0"
+    },
+    {
+      "topic": "Greedy",
+      "title": "Find maximum sum possible equal sum of three stacks",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Rat in a maze title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/rat-in-a-maze-title/1"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Printing all solutions in N-Queen title",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/printing-solutions-n-queen-title/"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Word Break title using Backtracking",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/word-break-part-2/0"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Remove Invalid Parentheses",
+      "done": false,
+      "URL": "https://leetcode.com/titles/remove-invalid-parentheses/"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Sudoku Solver",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/solve-the-sudoku/0"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "m Coloring title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/m-coloring-title/0"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Print all palindromic partitions of a string",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Subset Sum title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/subset-sum-title2014/1"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "The Knight’s tour title",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/the-knights-tour-title-backtracking-1/"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Tug of War",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/tug-of-war/"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Find shortest safe route in a path with landmines",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Combinational Sum",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/combination-sum/0"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Find Maximum number possible by doing at-most K swaps",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/largest-number-in-k-swaps/0"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Print all permutations of a string ",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/permutations-of-a-given-string/0"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Find if there is a path of more than k length from a source",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Longest Possible Route in a Matrix with Hurdles",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Print all possible paths from top left to bottom right of a mXn matrix",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Partition of a set intoK subsets with equal sum",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/partition-array-to-k-subsets/1"
+    },
+    {
+      "topic": "BackTracking",
+      "title": "Find the K-th Permutation Sequence of first N natural numbers",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": " Implement Stack from Scratch",
+      "done": false,
+      "URL": "https://www.tutorialspoint.com/javaexamples/data_stack.htm"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": " Implement Queue from Scratch",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Implement 2 stack in an array",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/implement-two-stacks-in-an-array/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "find the middle element of a stack",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Implement \"N\" stacks in an Array",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Check the expression has valid or Balanced parenthesis or not.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/parenthesis-checker/0"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Reverse a String using Stack",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/reverse-a-string-using-stack/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/special-stack/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Find the next Greater element",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/next-larger-element/0"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "The celebrity title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/the-celebrity-title/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Arithmetic Expression evaluation",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/arithmetic-expression-evalution/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Evaluation of Postfix expression",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/evaluation-of-postfix-expression/0"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Implement a method to insert an element at its bottom without using any other data structure.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/program-to-insert-an-element-at-the-bottom-of-a-stack/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Reverse a stack using recursion",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Sort a Stack using recursion",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/sort-a-stack/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Merge Overlapping Intervals",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/overlapping-intervals/0"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Largest rectangular Area in Histogram",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/maximum-rectangular-area-in-a-histogram/0"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Length of the Longest Valid Substring",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/valid-substring0624/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Expression contains redundant bracket or not",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Implement Stack using Queue",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/stack-using-two-queues/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Implement Stack using Deque",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Stack Permutations (Check if an array is stack permutation of other)",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Implement Queue using Stack  ",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/queue-using-two-stacks/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Implement \"n\" queue in an array",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Implement a Circular queue",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "LRU Cache Implementationa",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/lru-cache/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Reverse a Queue using recursion",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/queue-reversal/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Reverse the first “K” elements of a queue",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/reverse-first-k-elements-of-queue/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Interleave the first half of the queue with second half",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Find the first circular tour that visits all Petrol Pumps",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/circular-tour/1"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Minimum time required to rot all oranges",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/rotten-oranges/0"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Distance of nearest cell having 1 in a binary matrix",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/distance-of-nearest-cell-having-1/0"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "First negative integer in every window of size “k”",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/first-negative-integer-in-every-window-of-size-k/0"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Check if all levels of two trees are anagrams or not.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Sum of minimum and maximum elements of all subarrays of size “k”.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Minimum sum of squares of character counts in a given string after removing “k” characters.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/game-with-string/0"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Queue based approach or first non-repeating character in a stream.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/first-non-repeating-character-in-a-stream/0"
+    },
+    {
+      "topic": "Stacks & Queues",
+      "title": "Next Smaller Element",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/next-smaller-element/"
+    },
+    {
+      "topic": "Heap",
+      "title": "Implement a Maxheap/MinHeap using arrays and recursion.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/building-heap-from-array/"
+    },
+    {
+      "topic": "Heap",
+      "title": "Sort an Array using heap. (HeapSort)",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/heap-sort/"
+    },
+    {
+      "topic": "Heap",
+      "title": "Maximum of all subarrays of size k.",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/"
+    },
+    {
+      "topic": "Heap",
+      "title": "“k” largest element in an array",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/k-largest-elements4206/1"
+    },
+    {
+      "topic": "Heap",
+      "title": "Kth smallest and largest element in an unsorted array",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/"
+    },
+    {
+      "topic": "Heap",
+      "title": "Merge “K” sorted arrays. [ IMP ]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/merge-k-sorted-arrays/1"
+    },
+    {
+      "topic": "Heap",
+      "title": "Merge 2 Binary Max Heaps",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/merge-two-binary-max-heap/0"
+    },
+    {
+      "topic": "Heap",
+      "title": "Kth largest sum continuous subarrays",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/"
+    },
+    {
+      "topic": "Heap",
+      "title": "Leetcode- reorganize strings",
+      "done": false,
+      "URL": "https://leetcode.com/titles/reorganize-string/"
+    },
+    {
+      "topic": "Heap",
+      "title": "Merge “K” Sorted Linked Lists [V.IMP]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/merge-k-sorted-linked-lists/1"
+    },
+    {
+      "topic": "Heap",
+      "title": "Smallest range in “K” Lists",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/find-smallest-range-containing-elements-from-k-lists/1"
+    },
+    {
+      "topic": "Heap",
+      "title": "Median in a stream of Integers",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/find-median-in-a-stream/0"
+    },
+    {
+      "topic": "Heap",
+      "title": "Check if a Binary Tree is Heap",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/is-binary-tree-heap/1"
+    },
+    {
+      "topic": "Heap",
+      "title": "Connect “n” ropes with minimum cost",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimum-cost-of-ropes/0"
+    },
+    {
+      "topic": "Heap",
+      "title": "Convert BST to Min Heap",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/convert-bst-min-heap/"
+    },
+    {
+      "topic": "Heap",
+      "title": "Convert min heap to max heap",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/"
+    },
+    {
+      "topic": "Heap",
+      "title": "Rearrange characters in a string such that no two adjacent are same.",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/rearrange-characters/0"
+    },
+    {
+      "topic": "Heap",
+      "title": "Minimum sum of two numbers formed from digits of an array",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimum-sum4058/1"
+    },
+    {
+      "topic": "Graph",
+      "title": "Create a Graph, print it (implemented code)",
+      "done": false,
+      "URL": "https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5"
+    },
+    {
+      "topic": "Graph",
+      "title": "Create a Graph (for practice)",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/print-adjacency-list-1587115620/1"
+    },
+    {
+      "topic": "Graph",
+      "title": "Implement BFS algorithm ",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/bfs-traversal-of-graph/1"
+    },
+    {
+      "topic": "Graph",
+      "title": "Implement DFS Algo ",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/depth-first-traversal-for-a-graph/1"
+    },
+    {
+      "topic": "Graph",
+      "title": "Detect Cycle in Directed Graph using BFS/DFS Algo ",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/detect-cycle-in-a-directed-graph/1"
+    },
+    {
+      "topic": "Graph",
+      "title": "Detect Cycle in UnDirected Graph using BFS/DFS Algo ",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/detect-cycle-in-an-undirected-graph/1"
+    },
+    {
+      "topic": "Graph",
+      "title": "Search in a Maze",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/rat-in-a-maze-title/1"
+    },
+    {
+      "topic": "Graph",
+      "title": "Minimum Step by Knight",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/steps-by-knight/0"
+    },
+    {
+      "topic": "Graph",
+      "title": "flood fill algo",
+      "done": false,
+      "URL": "https://leetcode.com/titles/flood-fill/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Clone a graph",
+      "done": false,
+      "URL": "https://leetcode.com/titles/clone-graph/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Making wired Connections",
+      "done": false,
+      "URL": "https://leetcode.com/titles/number-of-operations-to-make-network-connected/"
+    },
+    {
+      "topic": "Graph",
+      "title": "word Ladder ",
+      "done": false,
+      "URL": "https://leetcode.com/titles/word-ladder/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Dijkstra algo",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Implement Topological Sort ",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/topological-sort/1"
+    },
+    {
+      "topic": "Graph",
+      "title": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Find whether it is possible to finish all tasks or not from given dependencies",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Find the no. of Islands",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/find-the-number-of-islands/1"
+    },
+    {
+      "topic": "Graph",
+      "title": "Given a sorted Dictionary of an Alien Language, find order of characters",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/alien-dictionary/1"
+    },
+    {
+      "topic": "Graph",
+      "title": "Implement Kruksal’sAlgorithm",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Implement Prim’s Algorithm",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Total no. of Spanning tree in a graph",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Implement Bellman Ford Algorithm",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/negative-weight-cycle/0"
+    },
+    {
+      "topic": "Graph",
+      "title": "Implement Floyd warshallAlgorithm",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/implementing-floyd-warshall/0"
+    },
+    {
+      "topic": "Graph",
+      "title": "Travelling Salesman title",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/travelling-salesman-title-set-1/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Graph Colouringtitle",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/graph-coloring-applications/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Snake and Ladders title",
+      "done": false,
+      "URL": "https://leetcode.com/titles/snakes-and-ladders/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Find bridge in a graph",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/bridge-in-a-graph/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Count Strongly connected Components(Kosaraju Algo)",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/strongly-connected-components-kosarajus-algo/1"
+    },
+    {
+      "topic": "Graph",
+      "title": "Check whether a graph is Bipartite or Not",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/bipartite-graph/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Detect Negative cycle in a graph",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Longest path in a Directed Acyclic Graph",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Journey to the Moon",
+      "done": false,
+      "URL": "https://www.hackerrank.com/challenges/journey-to-the-moon/title"
+    },
+    {
+      "topic": "Graph",
+      "title": "Cheapest Flights Within K Stops",
+      "done": false,
+      "URL": "https://leetcode.com/titles/cheapest-flights-within-k-stops/description/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Oliver and the Game",
+      "done": false,
+      "URL": "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-titles/algorithm/oliver-and-the-game-3/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Water Jug title using BFS",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/water-jug-title-using-bfs/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Find if there is a path of more thank length from a source",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/"
+    },
+    {
+      "topic": "Graph",
+      "title": "M-Colouringtitle",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/m-coloring-title/0"
+    },
+    {
+      "topic": "Graph",
+      "title": "Minimum edges to reverse o make path from source to destination",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Paths to travel each nodes using each edge(Seven Bridges)",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/paths-travel-nodes-using-edgeseven-bridges-konigsberg/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Vertex Cover title",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/vertex-cover-title-set-1-introduction-approximate-algorithm-2/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Chinese Postman or Route Inspection",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Number of Triangles in a Directed and Undirected Graph",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Minimise the cashflow among a given set of friends who have borrowed money from each other",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/"
+    },
+    {
+      "topic": "Graph",
+      "title": "Two Clique title",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/two-clique-title-check-graph-can-divided-two-cliques/"
+    },
+    {
+      "topic": "Trie",
+      "title": "Construct a trie from scratch",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/trie-insert-and-search/"
+    },
+    {
+      "topic": "Trie",
+      "title": "Find shortest unique prefix for every word in a given list",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/"
+    },
+    {
+      "topic": "Trie",
+      "title": "Word Break title | (Trie solution)",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/word-break-title-trie-solution/"
+    },
+    {
+      "topic": "Trie",
+      "title": "Given a sequence of words, print all anagrams together",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/k-anagrams-1/0"
+    },
+    {
+      "topic": "Trie",
+      "title": "Implement a Phone Directory",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/phone-directory/0"
+    },
+    {
+      "topic": "Trie",
+      "title": "Print unique rows in a given boolean matrix",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/unique-rows-in-boolean-matrix/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Coin Changetitle",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/coin-change2448/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Knapsack title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/0-1-knapsack-title/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Binomial Coefficienttitle",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/ncr1019/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Permutation Coefficienttitle",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/permutation-coefficient/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Program for nth Catalan Number",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/program-nth-catalan-number/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Matrix Chain Multiplication ",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Edit Distance",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/edit-distance3702/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Subset Sum title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/subset-sum-title2014/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Friends Pairing title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/friends-pairing-title5425/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Gold Mine title",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/gold-mine-title/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Assembly Line Schedulingtitle",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Painting the Fencetitle",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/painting-the-fence3727/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Maximize The Cut Segments",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/cutted-segments/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Longest Common Subsequence",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/longest-common-subsequence/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Longest Repeated Subsequence",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/longest-repeating-subsequence/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Longest Increasing Subsequence",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/longest-increasing-subsequence/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Space Optimized Solution of LCS",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/space-optimized-solution-lcs/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "LCS (Longest Common Subsequence) of three strings",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/lcs-of-three-strings/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Maximum Sum Increasing Subsequence",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/maximum-sum-increasing-subsequence4749/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Count all subsequences having product less than K",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/count-subsequences-product-less-k/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Longest subsequence such that difference between adjacent is one",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Maximum subsequence sum such that no three are consecutive",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Egg Dropping title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/egg-dropping-puzzle/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Maximum Length Chain of Pairs",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/max-length-chain/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Maximum size square sub-matrix with all 1s",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/largest-square-formed-in-a-matrix/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Maximum sum of pairs with specific difference",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/pairs-with-specific-difference/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Min Cost Pathtitle",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/path-in-matrix3805/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Maximum difference of zeros and ones in binary string",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/maximum-difference-of-zeros-and-ones-in-binary-string4111/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Minimum number of jumps to reach end",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimum-number-of-jumps/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Minimum cost to fill given weight in a bag",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/minimum-cost-to-fill-given-weight-in-a-bag1956/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Minimum removals from array to make max –min <= K",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Longest Common Substring",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/longest-common-substring/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Count number of ways to reacha given score in a game",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/reach-a-given-score/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Count Balanced Binary Trees of Height h",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/bbt-counter/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/kadanes-algorithm/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Smallest sum contiguous subarray",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Unbounded Knapsack (Repetition of items allowed)",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/knapsack-with-duplicate-items4201/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Word Break title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/word-break/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Largest Independent Set title",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/largest-independent-set-title-dp-26/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Partition title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/subset-sum-title2014/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Longest Palindromic Subsequence",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Count All Palindromic Subsequence in a given String",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/count-palindromic-subsequences/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Longest Palindromic Substring",
+      "done": false,
+      "URL": "https://leetcode.com/titles/longest-palindromic-substring/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Longest alternating subsequence",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/longest-alternating-subsequence/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Weighted Job Scheduling",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/weighted-job-scheduling/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Coin game winner where every player has three choices",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Maximum profit by buying and selling a share at most twice [ IMP ]",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Optimal Strategy for a Game",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/optimal-strategy-for-a-game/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Optimal Binary Search Tree",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Palindrome Partitioningtitle",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/palindromic-patitioning4845/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Word Wrap title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/word-wrap/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Mobile Numeric Keypad title [ IMP ]",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/mobile-numeric-keypad5456/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Boolean Parenthesization title",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/boolean-parenthesization/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Largest rectangular sub-matrix whose sum is 0",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Maximum sum rectangle in a 2D matrix",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/maximum-sum-rectangle/0"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Maximum profit by buying and selling a share at most k times",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/maximum-profit4657/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Find if a string is interleaved of two other strings",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/interleaved-strings/1"
+    },
+    {
+      "topic": "Dynamic Programming",
+      "title": "Maximum Length of Pair Chain",
+      "done": false,
+      "URL": "https://leetcode.com/titles/maximum-length-of-pair-chain/"
+    },
+    {
+      "topic": "Bit Manipulation",
+      "title": "Count set bits in an integer",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/set-bits0143/1"
+    },
+    {
+      "topic": "Bit Manipulation",
+      "title": "Find the two non-repeating elements in an array of repeating elements",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/finding-the-numbers0215/1"
+    },
+    {
+      "topic": "Bit Manipulation",
+      "title": "Count number of bits to be flipped to convert A to B",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/bit-difference/0"
+    },
+    {
+      "topic": "Bit Manipulation",
+      "title": "Count total set bits in all numbers from 1 to n",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/count-total-set-bits/0"
+    },
+    {
+      "topic": "Bit Manipulation",
+      "title": "Program to find whether a no is power of two",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/power-of-2/0"
+    },
+    {
+      "topic": "Bit Manipulation",
+      "title": "Find position of the only set bit",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/find-position-of-set-bit3706/1"
+    },
+    {
+      "topic": "Bit Manipulation",
+      "title": "Copy set bits in a range",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/"
+    },
+    {
+      "topic": "Bit Manipulation",
+      "title": "Divide two integers without using multiplication, division and mod operator",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/"
+    },
+    {
+      "topic": "Bit Manipulation",
+      "title": "Calculate square of a number without using *, / and pow()",
+      "done": false,
+      "URL": "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/"
+    },
+    {
+      "topic": "Bit Manipulation",
+      "title": "Power Set",
+      "done": false,
+      "URL": "https://practice.geeksforgeeks.org/titles/power-set4302/1"
+    }
+  ]
+}
