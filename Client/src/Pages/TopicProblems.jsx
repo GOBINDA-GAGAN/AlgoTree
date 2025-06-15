@@ -167,7 +167,7 @@ const TopicProblems = () => {
                           </a>
                         )}
                       </td>
-                      <td className="px-4 py-3 border border-gray-900 hidden md:table-cell">
+                      <td className="px-4 py-3 border border-gray-900  md:table-cell">
                         {problem.youtube ? (
                           <a
                             href={problem.youtube}
