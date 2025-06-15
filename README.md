@@ -65,14 +65,23 @@ We combine powerful problem-solving tools, curated YouTube video explanations, a
 Have ideas, improvements or bugs to report?  
 Open an issue or contact us at: **gobindagagandey@gmail.com**
 
+
 ---
 
-## 👨‍💼 Owner & Portfolio
+## 👨‍💼 About the Creator
 
-Made with ❤️ by **Gobinda Gagan Dey**  
-🔗 [Visit My Portfolio](https://gobinda-gagan-dey.vercel.app/) 
-📧 Email: gobindagagandey@gmail.com  
-🌐 GitHub: [GOBINDA-GAGAN](https://github.com/GOBINDA-GAGAN)
+Crafted with ❤️ by [**Gobinda Gagan Dey**](https://gobinda-gagan-dey.vercel.app/)
+
+🚀 A passionate developer on a mission to simplify DSA learning for everyone.  
+💡 Always building, always learning.
+
+- 🔗 **Portfolio**: [gobinda-gagan-dey.vercel.app](https://gobinda-gagan-dey.vercel.app/)
+- 📧 **Email**: [gobindagagandey@gmail.com](mailto:gobindagagandey@gmail.com)
+- 🌐 **GitHub**: [@GOBINDA-GAGAN](https://github.com/GOBINDA-GAGAN)
+- 🛠️ **Tech Stack**: React · Tailwind · Node.js · MongoDB · Firebase · Vercel
+
+> “Code is like a tree — grow it with logic, prune it with practice.” 🌱
+
 
 ---
 
